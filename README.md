@@ -1,4 +1,4 @@
-# dots-on-plots
+# dots-on-plots <img src="images/Logo.PNG" width="35">
 
 ## Description
 [Dots-on-Plots](https://ntm.boisestate.edu/dots-on-plots/):tm: is a web application that calculates mechanical properties from stress-strain curves of soft tissue. A results summary table (.csv) and report summary document (.pdf) may be exported by the user. Multiple input files can be updated at one time. <br/>
