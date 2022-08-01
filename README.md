@@ -1,9 +1,9 @@
 # dots-on-plots
-![](images/Capture.JPG)
 
 ## Description
 [Dots-on-Plots](https://ntm.boisestate.edu/dots-on-plots/):tm: is a web application that calculates mechanical properties from stress-strain curves of soft tissue. A results summary table (.csv) and report summary document (.pdf) may be exported by the user. Multiple input files can be updated at one time. <br/>
 
+![](images/GUI.PNG)
 ## File Requirements
 Acceptable file types for input are .csv, .xls, and .txt. Data must consist of two equal length columns of numbers. One header row with strings can be included in the input file The first column of data will be plotted on the x-axis as strain. The second column of data will be plotted on the y-axis as stress.
 
