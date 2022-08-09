@@ -15,7 +15,7 @@ You will need Python 3, scipy, numpy, matplotlib, pandas, pytz, and tzlocal inst
 - [pytz] (https://pypi.org/project/pytz/)
 - [tzlocal] (https://pypi.org/project/tzlocal/)
 
-After you've installed all of the items above, you can start the application by: [python src dop.py] Note, the above command assumes you are inside of dots-on-plots/ folder.
+After you've installed all of the items above, you can start the application by: [python src dop.py] Note, the previous command assumes you are inside of dots-on-plots/ folder.
 
 ## Support
 If you have any questions or would like to report any bugs, please contact trevorlujan@boisestate.edu
